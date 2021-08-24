@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsTime</string>
+    <string name="home">Home</string>
+    <string name="sports">Sports</string>
+    <string name="health">Health</string>
+    <string name="Sports" />
+    <string name="Health">Health</string>
+    <string name="Home">Home</string>
+</resources>
